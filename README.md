@@ -34,6 +34,7 @@ After the removal of the ninth-grade scores, one metric remains unchanged: the a
 
 Old District Summary:
 ![Old_district_summary.png](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/Old_district_summary.png)
+
 New District Summary:
 ![New district_summary.png](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/New_district_summary.png)
 
