@@ -39,17 +39,32 @@ New District Summary:
 Upon removing Thomas High School's ninth-grade reading and math scores, the average math and reading score changed slightly from the original calculations; however the percent of students passing math, reading, and both subjects declined markedly, to 66.9%, 69.7%, and 65,1%, respectively. Once the NaN scores were no longer used in the calculations, Thomas High School's statistics returned to similar scores, most slightly lower than the original analysis produced.
 
 School Summary:
-![New_school_summary.png](
+![New_school_summary.png](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/New_school_summary.png)
 
-### _How does replacing the ninth graders' math and reading schores affect Thomas High School's performance relative to the other schools?
+### _How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+After removing Thomas High School's ninth-grade reading and math scores, its ranking plummeted among the other schools in the city, since those rankings used the percent of overall students passing both subjects. Once the NaN scores were no longer used in these calculations and Thomas High School's statistics returned to similar percentages, it resumed its position as second in the top 5 highest performing high schools.
+
+Top 5 High Schools:
+![Top_schools.png](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/New_top_schools.png)
 
 ### _How does replacing the ninth-grade scores affect:
-### * _Math and reading scores by grade?_
-### * _Scores by school spending?_
-### * _Scores by school size?_
-### * _Scores by school type?_
+#### * _Math and reading scores by grade?_
+Math and reading scores by grade were not affected beyond the 9th graders' scores at Thomas High School, which are now represented by NaNs.
 
+#### * _Scores by school spending?_
+The scores by school spending did not change once the 9th graders' test data were replaced by NaNs; the small changes in the averages and percentages at Thomas High School did not change how the numbers rounded when averaged with the other schools in its per student spending category.
+
+![New_perstudent_spending](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/New_perstudent_spending.png)
+
+#### * _Scores by school size?_
+The scores by school size did not change once the 9th graders' test data were replaced by NaNs; the small changes in the averages and percentages at Thomas High School did not impact the rounding of the numbers when averaged with the other medium-sized schools.
+
+![New_average_basedon_size](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/New_average_basedon_size.png)
+
+#### * _Scores by school type?_
+The scores by school type did not change once the 9th graders' test data were replaced by NaNs; the small changes in the averages and percentages at Thomas High School did not affect how the numbers rounded when averaged with the other charter schools.
+
+![New_scores_by_type](https://github.com/saraegregg/Mod4-School-District-Analysis/blob/main/images/New_scores_by_type.png)
 
 ## Challenge Summary
-	
-This is a statement summmarizing 4 changes to the school district Analysis after the math and reading scores were replaced
+While some changes to the district-wide analysis did take place once the academic dishonesty was discovered and the impacted scores removed, in such a large population, the exclusion of 461 students' test scores did not bring about dramatic new conclusions. The changes that we can see are found in the district average scores and percents passing: mostly in minimally lowered numbers. For example. an average math score of 78.9 instead of 79.0 across the district. Similarly, the school summary for Thomas High School has slightly lower scores once the frehsman class' test scores were not counted toward the calculations. The broad trends and relationships that the initial analysis found regarding school spending, school size and school type were still reflected in the second analysis.
