@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Maria, the cheif data scientist for a city school district needs my help with preparing school budget and reading and math standardized test data for analysis, presentation and reporting to provide insight to the school board about performance trends and patterns. 
+Maria, the chief data scientist for a city school district needs my help with preparing school budget and reading and math standardized test data for analysis, presentation and reporting to provide insight to the school board about performance trends and patterns. 
 
 
 ## Resources
